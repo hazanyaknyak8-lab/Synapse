@@ -1,14 +1,10 @@
 {
     "OWNER_IDS": [
-        1357225761312079962,
-        1368989570816802886,
-        1287859210436087930,
-        190487452949938176,
-        1113016552623722497
+        1488018421022195854,
     ],
     "TOKEN": "",
-    "BotName": "Synapse",
-    "serverLink": "https://discord.gg/fzunQAvyd3",
+    "BotName": "Madara",
+    "serverLink": "https://discord.gg/Gw8FjRP5ED",
     "wh_cl": "",
     "wh_bl": "",
     "statusText": "Testing",
@@ -17,6 +13,6 @@
         "cogs.events"
     ],
     "np": [
-        1363485611679416532
+        1488018421022195854
     ]
 }
